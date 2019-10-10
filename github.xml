@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="18dd55d0-5cc2-44f8-bf10-5b775095bff8" name="legand-ankit">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
